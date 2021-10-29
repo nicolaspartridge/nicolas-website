@@ -1,9 +1,8 @@
 import NextLink from 'next/link'
-import { Button, Container, Box, Heading, Image, Icon, useColorModeValue, SimpleGrid, List, ListItem, Link } from '@chakra-ui/react'
+import { Button, Container, Box, Heading, Image, Icon, useColorModeValue, List, ListItem, Link } from '@chakra-ui/react'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import { BioSection, BioYear } from '../components/bio'
-import { GridItem } from '../components/grid-item'
 import {
   IoLogoTwitter,
   IoLogoGithub
