@@ -38,7 +38,7 @@ const Page = () => {
               maxWidth="100px"
               display="inline-block"
               borderRadius="full"
-              src="/images/takuya.jpg"
+              src="/images/thinkingtech.png"
               alt="Profile Image"
             />
 
